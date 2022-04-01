@@ -12,10 +12,11 @@ How can U.S. Bank help college students feel more secure about your finances, be
 #### U.S. Bank testing APIs
 We have a collection of testing APIs available that emulate the backend of a financial institution and allow you to interact with banking accounts and perform normal transactions. These APIs are available through the *U.S. Bank Innovation developer portal*.
 
-Technical information about these APIs is available
-[here](./APIs/overview.md). You will also learn about how to use the *U.S. Bank Innovation developer portal*.
+- [API technical information](./APIs/overview.md).
+
+You will also learn about how to use the *U.S. Bank Innovation developer portal*.
 
 #### Technical resources
 We have also compiled some general information about developing with APIs and common open source tools.
 
-This information is available [here](./resources/info.md).
+- [General technical resources](./resources/info.md).
