@@ -2,17 +2,17 @@
 ![US Bank](../event/img/US_Bank_logo.png)
 
 ## Exploring the APIs
-**1)** From the main portal page, scroll down to the area with the API tiles.
+**Step 1:** From the main portal page, scroll down to the area with the API tiles.
 
 ![API tiles](./img/API_panel.png)
 
-**2)** You will see a brief description of each API. For more details, click the *Overview* link within the API tile. Below is a snippet from the page for the *Core Banking API*.
+**Step 2:** You will see a brief description of each API. For more details, click the *Overview* link within the API tile. Below is a snippet from the page for the *Core Banking API*.
 
 ![Core Overview](./img/CoreOverview.png)
 
 This will provide an overview of each API including its main features and possible use cases.
 
-**3)** The detailed API specification are available in the right hand column listed under Product Specifications. Select the *API Specification*.
+**Step 3:** The detailed API specification are available in the right hand column listed under Product Specifications. Select the *API Specification*.
 
 >Note: You must be logged in to see the API specification.
 
@@ -24,7 +24,7 @@ In the picture above, you can see an element of an API specification: `GET /acco
 
 The API specification will show the request and response messages for all of the available methods for an API.
 
-**4)** You can also view the specific URL to the API by clicking the arrow in the API specification.
+**Step 4:** You can also view the specific URL to the API by clicking the arrow in the API specification.
 
 ![API URL](./img/APIURL.png)
 

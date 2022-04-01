@@ -15,6 +15,8 @@ The developer portal for the Money Hack Hackathon is located at:<br> [hacktotrac
 
 Here are a few more resources:
 - [Exploring the portal](../portal/explore.md)
+- [Creating an account](../portal/gettingStarted.md)
+- [Getting your API key](../portal/getAPIKey.md)
 
 #### Q. Do I need to register on the U.S. Bank Innovation developer portal?
 Yes, you will need to register for an account on the Developer Portal in order to view the API documentation and obtain an API key. Complete signup instructions are provided in this folder. Once you complete the signup process, a confirmation email will be sent to this address to activate your account.

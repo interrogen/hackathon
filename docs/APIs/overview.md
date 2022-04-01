@@ -21,7 +21,9 @@ We have four APIs that collectively create a **Bank in a Box**. They emulate the
 | ![Reference](./img/ReferenceIcon.png) | **[Reference_API](./reference.md)** | This API provides methods to look up both the definitions of Merchant Category Codes and popular U.S. Bank product types. |
 
 #### Additional Resources
-- Setting up API Security
 - Using the U.S. Bank Innovation developer portal
   - [Exploring the portal](../portal/explore.md)
-- using the Postman files
+  - [Creating an account](../portal/gettingStarted.md)
+  - [Getting your API key](../portal/getAPIKey.md)
+- Setting up [API Security](./security.md)
+- Using the [Postman files](./using_postman.md)
