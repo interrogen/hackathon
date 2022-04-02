@@ -16,7 +16,7 @@ For those of you that will be in person for the hackathon, here are the instruct
 
 [MCTC Parking Map](https://minneapolis.edu/about-us/maps-hours-parking)
 
-#### Day one agenda - Thursday, April 7 {dayone}
+#### Day one agenda - Thursday, April 7 {#dayone}
 
 | --- | --- |
 | **Time** | **Activity** |

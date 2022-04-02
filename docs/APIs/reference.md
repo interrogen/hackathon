@@ -1,7 +1,7 @@
 ![Reference API](./img/ReferenceIcon.png)
 ## Reference API
 
-This API provides methods to look up both the definitions of  U.S. Bank common product definitions and industry standard Merchant Category Codes.
+This API provides methods to look up both the definitions of  U.S. Bank common product definitions and industry standard Merchant Category Codes. [[API documentation](./referenceSpec.md)]
 
 - [Features](#features)
 - [Use Cases](#usecases)

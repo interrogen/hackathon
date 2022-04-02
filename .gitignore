@@ -1,3 +1,6 @@
 
 # os files
 .DS_STORE
+# prep files
+.json
+/work
