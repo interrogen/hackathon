@@ -1,7 +1,7 @@
 ![Core API](./img/CoreIcon.png)
 ## Core Banking API
 
-This API collection has read-only methods for interacting with the financial accounts for a given customer. It provides a variety of views into customer data including customer information, account details, transaction history and transaction details.
+This API collection has read-only methods for interacting with the financial accounts for a given customer. It provides a variety of views into customer data including customer information, account details, transaction history and transaction details. [[API documentation](./coreSpec.md)]
 
 - [Features](#features)
 - [Workflow](#workflow)

@@ -1,6 +1,6 @@
 ![CAAS API](./img/CAASIcon.png)
 ## Card as a Service API
-Card as a Service (CaaS) API provides companies with the ability to create technology to instantly provision virtual corporate cards into a user's mobile wallet. It includes the ability to assign cards and review card usage.
+Card as a Service (CaaS) API provides companies with the ability to create technology to instantly provision virtual corporate cards into a user's mobile wallet. It includes the ability to assign cards and review card usage. [[API documentation](./caasSpec.md)]
 
 - [Features](#features)
 - [Workflow](#workflow)

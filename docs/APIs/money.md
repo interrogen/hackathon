@@ -1,7 +1,7 @@
 ![Money API](./img/MoneyIcon.png)
 ## Money Movement API
 
-The Money Movement API suite allows one to perform a variety of financial transactions into and out of different synthetic accounts to emulate real customer behavior: paying bills, depositing checks, purchasing items, etc. In general, one will perform these transactions from the perspective of a single customer using the assigned synthetic accounts.
+The Money Movement API suite allows one to perform a variety of financial transactions into and out of different synthetic accounts to emulate real customer behavior: paying bills, depositing checks, purchasing items, etc. In general, one will perform these transactions from the perspective of a single customer using the assigned synthetic accounts. [[API documentation](./moneySpec.md)]
 
 - [Features](#features)
 - [Workflow](#workflow)
