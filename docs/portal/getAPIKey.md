@@ -6,9 +6,9 @@ In order utilize the APIs that are exposed through the developer portal, you wil
 
 The process for obtaining a key involves the creation of a project on the portal (which will generate an API key). Then, you link your project to other APIs which basically provisions them to your account.
 
-- [Creating a project]{#creating}
-- [Viewing your API credentials]{#viewing}
-- [Adding more APIs to a project Project]{#adding}
+- [Creating a project](#creating)
+- [Viewing your API credentials](#viewing)
+- [Adding more APIs to a project Project](#adding)
 
 #### Creating a project {#creating}
 
