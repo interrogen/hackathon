@@ -3,7 +3,12 @@
 
 This API collection has read-only methods for interacting with the financial accounts for a given customer. It provides a variety of views into customer data including customer information, account details, transaction history and transaction details.
 
-### Features
+- [Features](#features)
+- [Workflow](#workflow)
+- [Use Cases](#usecases)
+- [FAQs](#faq)
+
+### Features {#features}
 - Each API user is provided with their own unique set of synthetic data with a rich set of synthetic data for a mock customer including balances. transactions, and account history
 - Provides a general financial picture of a particular customer including their different bank accounts & respective balances
 - View current balances across a customer's entire portfolio
@@ -14,14 +19,14 @@ This API collection has read-only methods for interacting with the financial acc
 - Products include: Personal checking accounts; Savings accounts; Consumer and Business Credit cards; & Lines of Credit
 - Create a new banking account for a specific customer.
 
-### Workflow
+### Workflow {#workflow}
 ![Core Banking Workflow](./img/core-banking-workflow.png)
 
-### Use Cases
+### Use Cases {#usecases}
 - Integrate U.S. Bank data into a personal financial management app and help customers track and manage their spending.
 - Integrate U.S. Bank data into business and accounting software (e.g. Intuit, Sage) to help small businesses improve tracking and management of their business (e.g. provide cash flow analysis).
 
-### FAQs
+### FAQs {#faq}
 
 #### Q. Will I have my own test accounts?
 If you are creating a consumer focused application, you will receive a unique *customer ID*. Each customer record includes a savings account, checking account and two credit accounts. You can use the `/customer/{customerID}` method to find the customer details.

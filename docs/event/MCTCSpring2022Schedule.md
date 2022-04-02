@@ -2,7 +2,12 @@
 ![Money Hack](./img/MoneyHack.png)
 ### Event Details
 All events are in **Central time**.
-#### Location
+
+- [Location](#location)
+- [Day 1 Agenda](#dayone)
+- [Day 2 Agenda](#daytwo)
+
+#### Location {#location}
 For those of you that will be in person for the hackathon, here are the instructions for parking and the room location.
 
 - Parking will be in parking lot R, see link for map below.  Participants should stay in left lane to tell attendant:  USBank Hackathon.  And the attendant will let you in.
@@ -11,7 +16,7 @@ For those of you that will be in person for the hackathon, here are the instruct
 
 [MCTC Parking Map](https://minneapolis.edu/about-us/maps-hours-parking)
 
-#### Day one agenda - Thursday, April 7
+#### Day one agenda - Thursday, April 7 {dayone}
 
 | --- | --- |
 | **Time** | **Activity** |
@@ -29,7 +34,7 @@ For those of you that will be in person for the hackathon, here are the instruct
 | 5:30 to 7:30 p.m.	| Idea check-in (optional) – students can run idea by mentor for feedback |
 | 7:30 to 8:30 p.m.	| Coach check in and wrap up day 1<br> - Share plan for day 2 |
 
-#### Day two agenda – Friday, April 8
+#### Day two agenda – Friday, April 8 {#daytwo}
 
 | --- | --- |
 | **Time** | **Activity** |

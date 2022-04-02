@@ -56,14 +56,35 @@ Select *View* next to the project that you want to see.
 >Note: You can also create a new project from this screen. You will be required to select one API product to associate with your project. Otherwise, the process is identical to the one described above.
 
 #### Adding more API products to your project {#adding}
-In general, you will want to add all of the APIs to your project so that you can use them within your application. There are two ways to do this.
+In general, you will want to add all of the APIs to your project so that you can use the same API credentials within your application. There are two ways to do this.
 
 **Method 1:**
 
-In order to do this, you will need to go to each API product page and add it manually. You can easily get to each API product by selecting the Product menu on the home page.
+In order to do this, you will need to go to each API product page and add it manually to your project. This is similar to the method to create a project.
+
+Simply select the *Existing* radio button and then choose your project from the dropdown menu.
+
+![Add Project](./img/AddExisting.png)
+
+>Note: If your project is not available, then the check to see if the API product has already been added.
+
 
 **Method 2:**
+You can also API products from the Project detail page (accessible via the *Credentials* option under the User menu on the main page).
 
->Image
+**Step 1:** Select *Add product* button on the bottom of the Project details page.
 
-**Step 1:** Select the API product to go to its specific page.
+![Project Details](./img/ProjectDetails.png)
+
+**Step 2:** Select the specific API product from the dropdown menu.
+
+In this example, we are adding the *Core Banking API*
+
+
+![Add API](./img/AddAPIDialog.png)
+
+Upon submitting the request, you will see that the new API product has been added to your project.
+
+![Complete Project](./img/ProjectAfterAdd.png)
+
+You can repeat steps 1-2 to add all of the API products to your project.

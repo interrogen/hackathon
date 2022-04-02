@@ -1,11 +1,15 @@
 ![Reference API](./img/ReferenceIcon.png)
-## Reference API 
+## Reference API
 
 This API provides methods to look up both the definitions of  U.S. Bank common product definitions and industry standard Merchant Category Codes.
 
+- [Features](#features)
+- [Use Cases](#usecases)
+- [FAQs](#faq)
+
 ![Reference Workflow](./img/reference-workflow.png)
 
-### Features
+### Features {#features}
 - Provides complete details of Merchant Category Codes (MCC).
 - Ability to look up MCC definition by code.
 - Ability to find all related MCC values by searching with a key word (e.g. "Restaurant").
@@ -13,7 +17,7 @@ This API provides methods to look up both the definitions of  U.S. Bank common p
 - Provides a list of U.S. Bank products.
 - Contains common product abbreviations.
 
-### Use Cases
+### Use Cases {#usecases}
 - Classify customer purchases (using MCC codes) for budgeting purposes.
 - Propose opportunities for customers to save money.
 - Create card controls to restrict user purchases for only approved categories (based on MCC).
@@ -21,7 +25,7 @@ This API provides methods to look up both the definitions of  U.S. Bank common p
 
 > **Note:** A *Merchant Category Code* (MCC) is a four-digit code assigned to every business that applies to accept credit cards. This code indicates the nature of the merchant's business (*e.g.*, Airlines, Veterinary Sciences, Hardware Store, etc.) They have become the standard for categorizing card purchases based on industry.
 
-### FAQs
+### FAQs {#faq}
 #### Q. How do I look up a specific MCC code?
 The `/code/{mcc}` method will return the description for a specific merchant code.
 
