@@ -15,6 +15,16 @@ This information is included in the header of your API request.
 
 >Image from Postman
 
+USE an example and then reset my API keys
+
+
+
 Example of a code snippet
 
 `Code sample`
+
+> found a good example for node.js
+
+Also include the references:
+- [Basic Auth in node.js](https://dzone.com/articles/nodejs-call-https-basic) - How to call an API with Basic Auth
+- [Tutorial on implementing Basic Auth](https://jasonwatmore.com/post/2018/09/24/nodejs-basic-authentication-tutorial-with-example-api) - How to build your own API that implements Basic Auth
