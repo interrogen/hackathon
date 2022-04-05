@@ -4,3 +4,31 @@
 # prep files
 .json
 /work
+
+# IDE Stuff
+
+.vscode/
+.idea/
+.vs/
+
+# Python Stuff
+
+venv/
+env/
+
+# Java Stuff
+
+out/
+target/
+
+# Node Stuff
+
+node_modules/
+
+# .NET Stuff
+
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
